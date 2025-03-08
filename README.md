@@ -8,7 +8,7 @@
 
 ## About Me
 I'm a 17-year-old high school senior from Karachi, Pakistan, focused on developing cross-platform mobile applications and responsive web solutions. With experience in various programming languages and frameworks, I'm passionate about using technology to solve real-world problems and create impactful applications.
-> "My main goal is to make the world a better place through innovative technology solutions."
+> "My goal is to make the internet a fun place again."
 
 ## Technology Stack
 <div align="center">
