@@ -39,27 +39,16 @@ ChatNest is a social media platform designed to help developers and creators fin
 - Frontend Web Development (React, HTML/CSS, JavaScript)
 - Backend Solutions with Python
 - Cross-platform Integration and Optimization
-```
-
-## Professional Experience
-- Developed multiple Flutter applications for Android and iOS platforms
-- Created responsive web interfaces using HTML, CSS, and JavaScript
-- Built dynamic web applications with React
-- Implemented backend solutions using Python
-- Focused on creating software that solves real-world problems
 
 ## Collaboration Opportunities
 I'm actively seeking collaboration on innovative projects with real-world impact. With expertise in mobile and web development, I can contribute to various aspects of application development from UI/UX to backend integration.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShayanKhanJaved)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-khan-javed-0a3190315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shayankhanjavedcontact@gmail.com)
 
 </div>
 
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-</div>
+
