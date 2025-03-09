@@ -2,8 +2,7 @@
   <!-- Animated Wave Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Software%20Developer&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%" />
   
-  <!-- Animated Text -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Cross-Platform+Developer;Tech+Innovator;Problem+Solver;Creative+Coder" alt="Typing SVG" /></a>
+
 </div>
 
 ## About Me
