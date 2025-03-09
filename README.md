@@ -1,9 +1,3 @@
-<div align="center">
-  <!-- Animated Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Software%20Developer&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%" />
-  
-
-</div>
 
 ## About Me
 I'm a 17-year-old high school senior from Karachi, Pakistan, focused on developing cross-platform mobile applications and responsive web solutions. With experience in various programming languages and frameworks, I'm passionate about using technology to solve real-world problems and create impactful applications.
