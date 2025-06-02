@@ -1,6 +1,6 @@
 
 ## About Me
-I'm a 17-year-old high school senior from Karachi, Pakistan, focused on developing cross-platform mobile applications and responsive web solutions. With experience in various programming languages and frameworks, I'm passionate about using technology to solve real-world problems and create impactful applications.
+I'm a 18-year-old high school senior from Karachi, Pakistan, focused on developing cross-platform mobile applications and responsive web solutions. With experience in various programming languages and frameworks, I'm passionate about using technology to solve real-world problems and create impactful applications.
 > "My goal is to make the internet a fun place again."
 
 <div align="center">
