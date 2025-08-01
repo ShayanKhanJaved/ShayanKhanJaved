@@ -1,4 +1,3 @@
-
 ## About Me
 I'm a 18-year-old high school senior from Karachi, Pakistan, focused on developing cross-platform mobile applications and responsive web solutions. With experience in various programming languages and frameworks, I'm passionate about using technology to solve real-world problems and create impactful applications.
 > "My goal is to make the internet a fun place again."
@@ -26,12 +25,3 @@ ChatNest is a social media platform designed to help developers and creators fin
 - Cross-platform availability (Web, Android, iOS)
 
 ## Development Focus
-```
-- Mobile Application Development (Flutter, Android, iOS)
-- Frontend Web Development (React, HTML/CSS, JavaScript)
-- Backend Solutions with Python
-- Cross-platform Integration and Optimization
-```
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-khan-javed-0a3190315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shayankhanjavedcontact@gmail.com)
