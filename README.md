@@ -4,9 +4,9 @@ I'm a 18-year-old high school senior from Karachi, Pakistan, focused on developi
 
 <div align="center">
 
-[![anyonics](https://img.shields.io/badge/anyonics-000000?style=for-the-badge&logoColor=white)](https://anyonics.com/)
-[![erqik](https://img.shields.io/badge/erqik-FFD700?style=for-the-badge&logoColor=black)](https://anyonics.com/erqik/erqik.html)
-[![Cameosky](https://img.shields.io/badge/Cameosky-FF8C00?style=for-the-badge&logoColor=white)](https://anyonics.com/aboutus.html)
+[![Anyonics.](https://img.shields.io/badge/anyonics-000000?style=for-the-badge&logoColor=white)](https://anyonics.com/)
+[![ERQIK](https://img.shields.io/badge/erqik-FFD700?style=for-the-badge&logoColor=black)](https://anyonics.com/erqik/erqik.html)
+[![CAMEOSKY](https://img.shields.io/badge/Cameosky-FF8C00?style=for-the-badge&logoColor=white)](https://anyonics.com/aboutus.html)
 
 
 <div/>
@@ -21,7 +21,7 @@ I'm a 18-year-old high school senior from Karachi, Pakistan, focused on developi
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com/ios/)
 </div>
 
-## Featured Project: https://img.shields.io/badge/ERQIK-FFD700?style=for-the-badge&logoColor=black)](https://anyonics.com/erqik/erqik.html
+## Featured Project: [![ERQIK](https://img.shields.io/badge/erqik-FFD700?style=for-the-badge&logoColor=black)](https://anyonics.com/erqik/erqik.html)
 Stop scrolling through lives and start living yours. ERQIK turns your city map into a live social feed of spontaneous events and real-world connections.
 
 ### Key Features:
