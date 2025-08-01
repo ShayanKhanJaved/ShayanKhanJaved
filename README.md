@@ -26,7 +26,7 @@ Stop scrolling through lives and start living yours. ERQIK turns your city map i
 
 ### Key Features:
 - Real-world map based social media experience
-- Live evets and social meetups
+- Live events and social meetups
 - Real-time messaging and collaboration features
 - Cross-platform availability (Web, Android, iOS)
 
