@@ -21,12 +21,12 @@ I'm a 18-year-old high school senior from Karachi, Pakistan, focused on developi
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com/ios/)
 </div>
 
-## Featured Project: ChatNest
-ChatNest is a social media platform designed to help developers and creators find teams for their dream projects. It facilitates collaboration by connecting individuals with complementary skills and shared project interests.
+## Featured Project: https://img.shields.io/badge/ERQIK-FFD700?style=for-the-badge&logoColor=black)](https://anyonics.com/erqik/erqik.html
+Stop scrolling through lives and start living yours. ERQIK turns your city map into a live social feed of spontaneous events and real-world connections.
 
 ### Key Features:
-- Team formation based on skill compatibility
-- Project ideation and planning tools
+- Real-world map based social media experience
+- Live evets and social meetups
 - Real-time messaging and collaboration features
 - Cross-platform availability (Web, Android, iOS)
 
