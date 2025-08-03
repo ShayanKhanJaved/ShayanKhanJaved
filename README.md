@@ -19,7 +19,8 @@ I'm a 18-year-old high school senior from Karachi, Pakistan, focused on developi
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com/ios/)
 </div>
-
+## Featured Proposal: [![CAMEOSKY](https://img.shields.io/badge/Cameosky-FF8C00?style=for-the-badge&logoColor=white)](https://anyonics.com/propsal.html)
+<br>
 ## Featured Project: [![ERQIK](https://img.shields.io/badge/erqik-FFD700?style=for-the-badge&logoColor=black)](https://anyonics.com/erqik/erqik.html)
 Stop scrolling through lives and start living yours. ERQIK turns your city map into a live social feed of spontaneous events and real-world connections.
 
