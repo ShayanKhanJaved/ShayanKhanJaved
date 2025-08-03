@@ -36,6 +36,7 @@ Stop scrolling through lives and start living yours. ERQIK turns your city map i
 - Backend Solutions with Python
 - Cross-platform Integration and Optimization
 ```
+## Operating system documentation : [![CAMEOSKY](https://img.shields.io/badge/Cameosky-FF8C00?style=for-the-badge&logoColor=white)](https://anyonics.com/proposal.html)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-khan-javed-0a3190315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shayankhanjavedcontact@gmail.com)
