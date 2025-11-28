@@ -6,7 +6,7 @@ I'm an 18-year-old high school senior and passionate developer from Karachi, Pak
 
 <div align="center">
 
-[![Anyonics.](https://img.shields.io/badge/anyonics-000000?style=for-the-badge&logoColor=white)](https://anyonics.com/)
+[![Anyonics.](https://img.shields.io/badge/anyonics-000080?style=for-the-badge&logoColor=white)](https://anyonics.com/)
 [![BiologyTheory](https://img.shields.io/badge/BiologyTheory-ff1b00?style=for-the-badge&logoColor=white)](https://biologytheory.com/)
 [![ChatNest](https://img.shields.io/badge/ChatNest-000000?style=for-the-badge&logoColor=white)](https://anyonics.com/aboutus.html)
 
@@ -33,4 +33,3 @@ Stop struggling to find the right talent. ChatNest is a social media application
 
 ## Academic Initiative: [![BiologyTheory](https://img.shields.io/badge/BiologyTheory-ff1b00?style=for-the-badge&logoColor=white)](https://biologytheory.com/)
 A scientific journal dedicated to cataloging and exploring the principles of Game Theory and Evolutionary Game Theory (EGT) through accessible, high-quality articles. This initiative aims to bridge complex theoretical concepts with practical understanding for students and enthusiasts.
-
