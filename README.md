@@ -34,4 +34,3 @@ Stop struggling to find the right talent. ChatNest is a social media application
 ## Academic Initiative: [![BiologyTheory](https://img.shields.io/badge/BiologyTheory-ff1b00?style=for-the-badge&logoColor=white)](https://biologytheory.com/)
 A scientific journal dedicated to cataloging and exploring the principles of Game Theory and Evolutionary Game Theory (EGT) through accessible, high-quality articles. This initiative aims to bridge complex theoretical concepts with practical understanding for students and enthusiasts.
 
-## Development Focus
