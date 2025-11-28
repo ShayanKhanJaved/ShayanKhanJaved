@@ -1,15 +1,17 @@
 ## About Me
-I'm a 18-year-old high school senior from Karachi, Pakistan, focused on developing cross-platform mobile applications and responsive web solutions. With experience in various programming languages and frameworks, I'm passionate about using technology to solve real-world problems and create impactful applications.
+
+I'm an 18-year-old high school senior and passionate developer from Karachi, Pakistan. I specialize in building cross-platform mobile applications and responsive web solutions. My focus is on leveraging technology to solve real-world problems and create meaningful, impactful software.
+
 > "My goal is to make the internet a fun place again."
 
 <div align="center">
 
 [![Anyonics.](https://img.shields.io/badge/anyonics-000000?style=for-the-badge&logoColor=white)](https://anyonics.com/)
-[![ERQIK](https://img.shields.io/badge/erqik-FFD700?style=for-the-badge&logoColor=black)](https://anyonics.com/erqik/erqik.html)
-[![CAMEOSKY](https://img.shields.io/badge/Cameosky-FF8C00?style=for-the-badge&logoColor=white)](https://anyonics.com/aboutus.html)
+[![BiologyTheory](https://img.shields.io/badge/BiologyTheory-00AA00?style=for-the-badge&logoColor=white)](https://biologytheory.com/)
+[![ChatNest](https://img.shields.io/badge/ChatNest-000000?style=for-the-badge&logoColor=white)](https://anyonics.com/aboutus.html)
 
+</div>
 
-<div/>
 <br>
 <div align="center">
   
@@ -20,23 +22,16 @@ I'm a 18-year-old high school senior from Karachi, Pakistan, focused on developi
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com/ios/)
 </div>
 
-## Featured Project: [![ERQIK](https://img.shields.io/badge/erqik-FFD700?style=for-the-badge&logoColor=black)](https://anyonics.com/erqik/erqik.html)
-Stop scrolling through lives and start living yours. ERQIK turns your city map into a live social feed of spontaneous events and real-world connections.
+## Featured Project: [![ChatNest](https://img.shields.io/badge/ChatNest-000000?style=for-the-badge&logoColor=white)](https://anyonics.com/aboutus.html)
+Stop struggling to find the right talent. ChatNest is a social media application designed to connect passionate individuals, helping you find the perfect teammates to bring your dream projects to life.
 
 ### Key Features:
-- Real-world map based social media experience
-- Live events and social meetups
-- Real-time messaging and collaboration features
-- Cross-platform availability (Web, Android, iOS)
+- **Project-Based Networking:** Find collaborators based on skills and project needs.
+- **Intuitive Team Building:** Streamline the process of forming a dedicated team.
+- **Real-time Collaboration:** Integrated messaging and project management tools.
+- **Cross-platform Availability:** Seamlessly connect on Web, Android, and iOS.
+
+## Academic Initiative: [![BiologyTheory](https://img.shields.io/badge/BiologyTheory-00AA00?style=for-the-badge&logoColor=white)](https://biologytheory.com/)
+A scientific journal dedicated to cataloging and exploring the principles of Game Theory and Evolutionary Game Theory (EGT) through accessible, high-quality articles. This initiative aims to bridge complex theoretical concepts with practical understanding for students and enthusiasts.
 
 ## Development Focus
-```
-- Mobile Application Development (Flutter, Android, iOS)
-- Frontend Web Development (React, HTML/CSS, JavaScript)
-- Backend Solutions with Python
-- Cross-platform Integration and Optimization
-```
-## Operating system documentation : [![CAMEOSKY](https://img.shields.io/badge/Cameosky-FF8C00?style=for-the-badge&logoColor=white)](https://anyonics.com/proposal.html)
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-khan-javed-0a3190315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shayankhanjavedcontact@gmail.com)
