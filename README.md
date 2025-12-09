@@ -29,7 +29,6 @@ Stop struggling to find the right talent. ChatNest is a social media application
 - **Project-Based Networking:** Find collaborators based on skills and project needs.
 - **Intuitive Team Building:** Streamline the process of forming a dedicated team.
 - **Real-time Collaboration:** Integrated messaging and project management tools.
-- **Cross-platform Availability:** Seamlessly connect on Web, Android, and iOS.
 
 ## Academic Initiative: [![BiologyTheory](https://img.shields.io/badge/BiologyTheory-ff1b00?style=for-the-badge&logoColor=white)](https://biologytheory.com/)
 A scientific journal dedicated to cataloging and exploring the principles of Game Theory and Evolutionary Game Theory (EGT) through accessible, high-quality articles. This initiative aims to bridge complex theoretical concepts with practical understanding for students and enthusiasts.
