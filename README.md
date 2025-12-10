@@ -8,7 +8,7 @@ I'm an 18-year-old high school senior and passionate developer from Karachi, Pak
 
 [![Anyonics.](https://img.shields.io/badge/anyonics-000080?style=for-the-badge&logoColor=white)](https://anyonics.com/)
 [![BiologyTheory](https://img.shields.io/badge/BiologyTheory-ff1b00?style=for-the-badge&logoColor=white)](https://biologytheory.com/)
-[![ChatNest](https://img.shields.io/badge/ChatNest-000000?style=for-the-badge&logoColor=white)](https://anyonics.com/aboutus.html)
+[![ChatNest](https://img.shields.io/badge/ChatNest-000000?style=for-the-badge&logoColor=white)](https://www.youtube.com/watch?v=R1DRQDPYHIw)
 
 </div>
 
@@ -22,7 +22,7 @@ I'm an 18-year-old high school senior and passionate developer from Karachi, Pak
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com/ios/)
 </div>
 
-## Featured Project: [![ChatNest](https://img.shields.io/badge/ChatNest-000000?style=for-the-badge&logoColor=white)](https://anyonics.com/aboutus.html)
+## Featured Project: [![ChatNest](https://img.shields.io/badge/ChatNest-000000?style=for-the-badge&logoColor=white)](https://https://www.youtube.com/watch?v=WqmLWCSTPFs)
 Stop struggling to find the right talent. ChatNest is a social media application designed to connect passionate individuals, helping you find the perfect teammates to bring your dream projects to life.
 
 ### Key Features:
