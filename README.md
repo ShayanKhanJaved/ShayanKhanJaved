@@ -31,10 +31,9 @@ Stop struggling to find the right talent. ChatNest is a social media application
 - **Intuitive Team Building:** Streamline the process of forming a dedicated team.
 - **Real-time Collaboration:** Integrated messaging and project management tools.
 
-## Strategic Initiative: [![GameTheoryBattle](https://img.shields.io/badge/GameTheoryBattle-FF8C00?style=for-the-badge&logoColor=white)](https://gametheorybattle.com/)
-Master the art of strategy on the world's first competitive Game Theory platform. Think of it as **Chess.com for Game Theory**—a place where logic meets competition.
+## Academic Initiative: [![GameTheoryBattle](https://img.shields.io/badge/GameTheoryBattle-FF8C00?style=for-the-badge&logoColor=white)](https://gametheorybattle.com/)
+**The Chess.com for Game Theory.** I built this platform to move Game Theory out of textbooks and into practice. It is designed to help students and enthusiasts intuit complex concepts—like the Prisoner's Dilemma or Nash Equilibrium—by actually playing through them.
 
-### Why GameTheoryBattle?
-- **Interactive Learning:** Ditch the textbooks. Learn complex concepts like the Prisoner's Dilemma, Nash Equilibrium, and Pareto Efficiency by playing through thousands of carefully crafted scenarios.
-- **Advanced AI Opponents:** Test your mettle against adaptive AI designed to challenge your decision-making and exploit strategic weaknesses.
-- **Global PvP:** Compete against real players worldwide to climb the leaderboard and prove your strategic dominance.
+* **Learn by Doing:** Instead of memorizing definitions, you play through thousands of specific decision-making scenarios to see how theory applies in real time.
+* **Adaptive AI:** Train against an AI that analyzes your playstyle and adapts to challenge your logic.
+* **Competitive PvP:** Once you've got the basics down, jump into the global queue to test your strategies against real players.
