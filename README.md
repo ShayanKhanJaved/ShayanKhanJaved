@@ -6,8 +6,9 @@ I'm an 18-year-old high school senior and passionate developer from Karachi, Pak
 
 <div align="center">
 
-[![Anyonics.](https://img.shields.io/badge/anyonics-000080?style=for-the-badge&logoColor=white)](https://anyonics.com/)
+[![Anyonics](https://img.shields.io/badge/anyonics-000080?style=for-the-badge&logoColor=white)](https://anyonics.com/)
 [![BiologyTheory](https://img.shields.io/badge/BiologyTheory-ff1b00?style=for-the-badge&logoColor=white)](https://biologytheory.com/)
+[![GameTheoryBattle](https://img.shields.io/badge/GameTheoryBattle-FF8C00?style=for-the-badge&logoColor=white)](https://gametheorybattle.com/)
 [![ChatNest](https://img.shields.io/badge/ChatNest-000000?style=for-the-badge&logoColor=white)](https://www.youtube.com/watch?v=R1DRQDPYHIw)
 
 </div>
@@ -30,5 +31,10 @@ Stop struggling to find the right talent. ChatNest is a social media application
 - **Intuitive Team Building:** Streamline the process of forming a dedicated team.
 - **Real-time Collaboration:** Integrated messaging and project management tools.
 
-## Academic Initiative: [![BiologyTheory](https://img.shields.io/badge/BiologyTheory-ff1b00?style=for-the-badge&logoColor=white)](https://biologytheory.com/)
-A scientific journal dedicated to cataloging and exploring the principles of Game Theory and Evolutionary Game Theory (EGT) through accessible, high-quality articles. This initiative aims to bridge complex theoretical concepts with practical understanding for students and enthusiasts.
+## Strategic Initiative: [![GameTheoryBattle](https://img.shields.io/badge/GameTheoryBattle-FF8C00?style=for-the-badge&logoColor=white)](https://gametheorybattle.com/)
+Master the art of strategy on the world's first competitive Game Theory platform. Think of it as **Chess.com for Game Theory**—a place where logic meets competition.
+
+### Why GameTheoryBattle?
+- **Interactive Learning:** Ditch the textbooks. Learn complex concepts like the Prisoner's Dilemma, Nash Equilibrium, and Pareto Efficiency by playing through thousands of carefully crafted scenarios.
+- **Advanced AI Opponents:** Test your mettle against adaptive AI designed to challenge your decision-making and exploit strategic weaknesses.
+- **Global PvP:** Compete against real players worldwide to climb the leaderboard and prove your strategic dominance.
